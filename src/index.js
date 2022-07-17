@@ -20,6 +20,7 @@ function midPointBtw(p1, p2) {
 const canvasStyle = {
   display: "block",
   position: "absolute",
+  touchAction: "pan-y",
 };
 
 // The order of these is important: grid > drawing > temp > interface
