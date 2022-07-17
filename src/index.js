@@ -359,7 +359,7 @@ export default class CanvasDraw extends PureComponent {
         style={{
           display: "block",
           background: this.props.backgroundColor,
-          touchAction: "pan-y",
+          touchAction: "none",
           width: this.props.canvasWidth,
           height: this.props.canvasHeight,
           ...this.props.style,
