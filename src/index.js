@@ -20,7 +20,6 @@ function midPointBtw(p1, p2) {
 const canvasStyle = {
   display: "block",
   position: "absolute",
-  touchAction: "pan-y",
 };
 
 // The order of these is important: grid > drawing > temp > interface
@@ -360,7 +359,7 @@ export default class CanvasDraw extends PureComponent {
         style={{
           display: "block",
           background: this.props.backgroundColor,
-          touchAction: "none",
+          touchAction: "pan-y",
           width: this.props.canvasWidth,
           height: this.props.canvasHeight,
           ...this.props.style,
