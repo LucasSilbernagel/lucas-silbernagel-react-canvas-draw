@@ -1,6 +1,6 @@
 {
-  "name": "react-canvas-draw",
-  "version": "1.2.1",
+  "name": "lucas-silbernagel-react-canvas-draw",
+  "version": "1.0.0",
   "description": "A simple yet powerful canvas-drawing component for React.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -52,14 +52,14 @@
     "style-loader": "^0.19.1"
   },
   "author": {
-    "name": "Martin Beierling",
-    "email": "mbeierling@gmail.com"
+    "name": "Lucas Silbernagel",
+    "email": "hello@lucassilbernagel.com"
   },
-  "homepage": "https://embiem.github.io/react-canvas-draw/",
+  "homepage": "https://LucasSilbernagel.github.io/lucas-silbernagel-react-canvas-draw/",
   "license": "MIT",
-  "repository": "https://github.com/embiem/react-canvas-draw",
+  "repository": "https://github.com/LucasSilbernagel/lucas-silbernagel-react-canvas-draw",
   "bugs": {
-    "url": "https://github.com/embiem/react-canvas-draw/issues"
+    "url": "https://github.com/LucasSilbernagel/lucas-silbernagel-react-canvas-draw/issues"
   },
   "keywords": [
     "react-component",
